@@ -1,0 +1,7 @@
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\bin\Debug\logsJSONtoCSV.exe.config
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\bin\Debug\logsJSONtoCSV.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\bin\Debug\logsJSONtoCSV.pdb
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\bin\Debug\Newtonsoft.Json.dll
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\bin\Debug\Newtonsoft.Json.xml
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\obj\Debug\logsJSONtoCSV.exe
+c:\users\nicolas\documents\visual studio 2015\Projects\logsJSONtoCSV\logsJSONtoCSV\obj\Debug\logsJSONtoCSV.pdb
